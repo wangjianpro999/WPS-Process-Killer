@@ -1,0 +1,14 @@
+.modal {
+  /* 固定宽度和高度 */
+  width: 500px;
+  height: 300px;
+  
+  /* 防止内容溢出 */
+  overflow: auto;
+  
+  /* 居中显示 */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+} 
