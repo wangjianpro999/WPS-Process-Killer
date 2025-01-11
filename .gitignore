@@ -30,3 +30,11 @@ Desktop.ini
 
 # Logs
 *.log
+
+# Keep these files
+!wps_killer.py
+!wps_killer_gui.py
+!build.bat
+!requirements.txt
+!file_version_info.txt
+!version.txt
