@@ -7,6 +7,22 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+Desktop.ini
 
 # PyInstaller
 *.manifest
@@ -14,12 +30,3 @@ build/
 
 # Logs
 *.log
-
-# Windows
-Thumbs.db
-Desktop.ini
-
-# IDE
-.idea/
-.vscode/
-*.swp
